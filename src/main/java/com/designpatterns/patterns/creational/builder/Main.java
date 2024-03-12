@@ -1,6 +1,10 @@
 package com.designpatterns.patterns.creational.builder;
 
 public class Main {
+
+    /**
+     * TODO: Add description
+     */
     public static void main(String[] args) {
         Director director = new Director();
 

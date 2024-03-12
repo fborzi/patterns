@@ -6,6 +6,9 @@ import com.designpatterns.patterns.creational.factory.factories.RandomEnemyFacto
 import com.designpatterns.patterns.creational.factory.factories.TougherEnemyFactory;
 
 public class Main {
+    /**
+     * TODO: Add description
+     */
     public static void main(String[] args) {
         startNewGame("Franco", 2);
         System.out.println("----------------------");

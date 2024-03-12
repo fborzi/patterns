@@ -1,6 +1,9 @@
 package com.designpatterns.patterns.creational.singleton;
 
 public class Main {
+    /**
+     * TODO: Add description
+     */
     public static void main(String[] args) {
         //Realm realm = new Realm();
 
